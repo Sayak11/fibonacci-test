@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sayak\source\repos\fibonacci_test\build\CMakeFiles\c63f72e623889b9bef875a5ea23f599e\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2E211BAC-E37A-3F53-9352-A72C134888E1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

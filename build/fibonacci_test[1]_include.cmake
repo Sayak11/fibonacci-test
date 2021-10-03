@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/sayak/source/repos/fibonacci_test/build/fibonacci_test[1]_tests.cmake")
+  include("C:/Users/sayak/source/repos/fibonacci_test/build/fibonacci_test[1]_tests.cmake")
+else()
+  add_test(fibonacci_test_NOT_BUILT fibonacci_test_NOT_BUILT)
+endif()

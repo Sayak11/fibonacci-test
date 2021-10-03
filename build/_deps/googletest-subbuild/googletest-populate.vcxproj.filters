@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sayak\source\repos\fibonacci_test\build\_deps\googletest-subbuild\CMakeFiles\67543dd1883655c5a178493cdd117b5f\googletest-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\sayak\source\repos\fibonacci_test\build\_deps\googletest-subbuild\CMakeFiles\67543dd1883655c5a178493cdd117b5f\googletest-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\sayak\source\repos\fibonacci_test\build\_deps\googletest-subbuild\CMakeFiles\67543dd1883655c5a178493cdd117b5f\googletest-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\sayak\source\repos\fibonacci_test\build\_deps\googletest-subbuild\CMakeFiles\67543dd1883655c5a178493cdd117b5f\googletest-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\sayak\source\repos\fibonacci_test\build\_deps\googletest-subbuild\CMakeFiles\67543dd1883655c5a178493cdd117b5f\googletest-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\sayak\source\repos\fibonacci_test\build\_deps\googletest-subbuild\CMakeFiles\67543dd1883655c5a178493cdd117b5f\googletest-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\sayak\source\repos\fibonacci_test\build\_deps\googletest-subbuild\CMakeFiles\67543dd1883655c5a178493cdd117b5f\googletest-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\sayak\source\repos\fibonacci_test\build\_deps\googletest-subbuild\CMakeFiles\67543dd1883655c5a178493cdd117b5f\googletest-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\sayak\source\repos\fibonacci_test\build\_deps\googletest-subbuild\CMakeFiles\dada768c2b0e0ca36a2359267def5f5a\googletest-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\sayak\source\repos\fibonacci_test\build\_deps\googletest-subbuild\CMakeFiles\a153ca94ddfc037e251e9b5654c1abf5\googletest-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\sayak\source\repos\fibonacci_test\build\_deps\googletest-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\sayak\source\repos\fibonacci_test\build\_deps\googletest-subbuild\CMakeFiles\googletest-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{56053579-E426-3D22-A307-83C44782D02B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
